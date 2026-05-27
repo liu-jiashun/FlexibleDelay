@@ -1,0 +1,2 @@
+D:\ProgramData\DevEnv\C\mingw64\bin\ar.exe qc libflexible_delay.a CMakeFiles/flexible_delay.dir/D_/Desktop/third_party/FlexibleDelay/flexible_delay.c.obj
+D:\ProgramData\DevEnv\C\mingw64\bin\ranlib.exe libflexible_delay.a
